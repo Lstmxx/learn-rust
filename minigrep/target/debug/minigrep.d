@@ -1,1 +1,1 @@
-D:\work\code\my\ code\learn-rust\minigrep\target\debug\minigrep.exe: D:\work\code\my\ code\learn-rust\minigrep\src\main.rs
+C:\Users\lstmxx\Desktop\code\lstmxx\learn-rust\learn-rust\minigrep\target\debug\minigrep.exe: C:\Users\lstmxx\Desktop\code\lstmxx\learn-rust\learn-rust\minigrep\src\main.rs
